@@ -1,8 +1,8 @@
 # Story-Lang
 
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Johnystar/Story-Lang)
 ![GitHub](https://img.shields.io/github/license/Johnystar/Story-Lang)
 
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Johnystar/Story-Lang)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Johnystar/Story-Lang/click)
 
 A language with syntax simliar to fantasy story books.
